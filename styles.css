@@ -1,0 +1,31 @@
+
+
+body {
+    background-color: wheat;
+}
+img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:700px;
+}
+h1 {
+    text-align:center;
+    }
+p {
+    text-align:center;
+   font-size: 30px;
+   font-style:italic;
+    }
+.compton {
+    color:#223377;
+}
+.chitown {
+    color:#874778;
+}
+.newyork {
+    color:#738367;
+}
+.thebay {
+    color:#834874;
+}
